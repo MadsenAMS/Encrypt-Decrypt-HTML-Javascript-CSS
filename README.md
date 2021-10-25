@@ -20,3 +20,5 @@ Os demais arquivos não listados acima são os arquivos criados para fins de apr
 index.html
 sor.css
 sor.js
+
+![alt text](https://github.com/MadsenAMS/Encrypt-Decrypt-HTML-Javascript-CSS/blob/main/thumbnail.jpg)
